@@ -18,6 +18,10 @@ body{
     margin: 0 auto;
 }
 
+.about{
+    margin: 105px auto 84px;
+}
+
 .nav__li{
     display: inline-block;
 }
